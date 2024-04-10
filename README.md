@@ -7,7 +7,7 @@ This kind of cells are rechargeable hundreds of times despite their limited capa
 With this device I hope to help other people find a way to easily recharge them.
 
 ## Images
-  <img src="Images/Front_image.JPG" width="400" height="auto">
+  <img src="Images/Front_image.PNG" width="400" height="auto">
 
 ## Components
 - Old power bank to salvage the recharging chip from 
