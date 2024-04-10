@@ -28,7 +28,7 @@ Design and print the enclosure for the device. If you have the same components a
 Iused a Elegoo Saturn resin printer
 Remember to scale the prints of about 6-7% to give the sufficient tolerance to fit everything. e.g. printing the models at 107% scaled size should be fine
 <br><img src="Images/Case_open_1.JPG" width="400" height="auto"> 
-    <img src="Images/Case_open_2.JPG" width="400" height="auto">
+<br><img src="Images/Case_open_2.JPG" width="400" height="auto">
 
 ### 3rd step: Solder the circuit
 The circuit is pretty simple, it's just the connector soldered to the chip with two thin wires.
