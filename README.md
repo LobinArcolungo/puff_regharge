@@ -50,12 +50,13 @@ These are the videos that inspired me for this project.
 <br>Disassembly: 
 <br>https://www.youtube.com/watch?v=ukvT_RBx-4U
 <br>
-<br>Actual tutorial: https://www.youtube.com/watch?v=M88e1r8nvYk
+<br>Actual tutorial: 
+<br>https://www.youtube.com/watch?v=M88e1r8nvYk
 <br>
 <br>Basic idea: 
 <br>https://www.youtube.com/shorts/beWTIUarKYY
 <br>https://www.youtube.com/watch?v=rG7qLbuWvK8&t=647s
-
+<br>
 <br>Example of recharge in the wrong way: 
 <br>https://www.youtube.com/watch?v=MG47qHrulyI
 <br>https://www.youtube.com/watch?v=NkLQbNGd8ro&t=58s
