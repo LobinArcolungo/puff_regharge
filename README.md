@@ -1,4 +1,5 @@
 # Puff Battery Cell Recharger
+## Recharge The garbage! Regharge!
 This progect aims to recharge lithium batteries from PUFF e-cigrettes and any other kind of disposable vapes.
 No code is involved in the project but just a couple of .stl files and some photos to replicate what i did.
 
