@@ -44,7 +44,7 @@ Before joining them remember to try the circuit with a discharged power cell
 ### 5th step: Use the device
 You can use directly the wires of a battery or if the battery doesn't have wires you can use two jumper wires.
 <br><img src="Images/Device_top.JPG" width="400" height="auto">
-ATTENTION! use only batteries with the proper voltage (e.g. 3.7V and 500mah)
+<br>ATTENTION! use only batteries with the proper voltage (e.g. 3.7V and 500mah)
 
 
 ## Documentation
