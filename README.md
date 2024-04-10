@@ -40,19 +40,22 @@ Position the circuit inside the 3d models that should fit together. To join them
 Before joining them remember to try the circuit with a discharged power cell
 <br><img src="Images/Use_example.JPG" width="400" height="auto"> 
 
-
+### 5th step: Use the device
+You can use directly the wires of a battery or if the battery doesn't have wires you can use two jumper wires
+ATTENTION! use only batteries with the proper voltage (e.g. 3.7V and 500mah)
 
 
 ## Documentation
 These are the videos that inspired me for this project. 
-Disassembly: https://www.youtube.com/watch?v=ukvT_RBx-4U
+<br>Disassembly: 
+<br>https://www.youtube.com/watch?v=ukvT_RBx-4U
+<br>
+<br>Actual tutorial: https://www.youtube.com/watch?v=M88e1r8nvYk
+<br>
+<br>Basic idea: 
+<br>https://www.youtube.com/shorts/beWTIUarKYY
+<br>https://www.youtube.com/watch?v=rG7qLbuWvK8&t=647s
 
-Actual tutorial: https://www.youtube.com/watch?v=M88e1r8nvYk
-
-Basic idea: 
-https://www.youtube.com/shorts/beWTIUarKYY
-https://www.youtube.com/watch?v=rG7qLbuWvK8&t=647s
-
-Example of recharge in the wrong way: 
-https://www.youtube.com/watch?v=MG47qHrulyI
-https://www.youtube.com/watch?v=NkLQbNGd8ro&t=58s
+<br>Example of recharge in the wrong way: 
+<br>https://www.youtube.com/watch?v=MG47qHrulyI
+<br>https://www.youtube.com/watch?v=NkLQbNGd8ro&t=58s
