@@ -6,6 +6,10 @@ No code is involved in the project but just a couple of .stl files and some phot
 This kind of cells are rechargeable hundreds of times despite their limited capacity so they can be used for small electronic projects and for IoT devices.
 With this device I hope to help other people find a way to easily recharge them.
 
+### Edit [10 sept 2024]
+I posted an addendum device which helps to recharge batteries of various length in an easy way without using the dangerous flying wires which can short easily. Scroll down to see it!
+
+
 ## Images
   <img src="Images/Front_image.JPG" width="400" height="auto">
 
@@ -45,6 +49,8 @@ Before joining them remember to try the circuit with a discharged power cell
 You can use directly the wires of a battery or if the battery doesn't have wires you can use two jumper wires.
 <br><img src="Images/Device_top.JPG" width="400" height="auto">
 ATTENTION! use only batteries with the proper voltage (e.g. 3.7V and 500mah)
+
+## Addendum
 
 
 ## Documentation
