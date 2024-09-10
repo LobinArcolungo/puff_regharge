@@ -54,7 +54,7 @@ You can use directly the wires of a battery or if the battery doesn't have wires
 Because I recently developed a project which requires the use of these repurposed batteries, I needed to be able to recharge them easily and reliably. The problem was that the "flying" cables of the cells are so thin that the socket strubbles to hold them in place, causing unwanted disconnections and decreasing security of use.
 So I designed an enclosure easy to print, but still in developement. Indeed to make it work, some presicion work must be done, I don't like it because it's not easily reproducible but still it works for now.
 
-<br><img src="Addendum_images/00_Assembled_product.JPG" width="400" height="auto">
+<br><img src="Addendum_images/00_Assembled_product.jpg" width="400" height="auto">
 <br>
 As you can see the appearence is similar to a syringe, the assembly is described below:
 
